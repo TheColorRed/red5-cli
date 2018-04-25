@@ -1,0 +1,5 @@
+*.ts
+!boilerplate/**/*.ts
+*.tgz
+tsconfig.json
+!boilerplate/**/tsconfig.json

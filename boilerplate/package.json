@@ -1,0 +1,13 @@
+{
+  "name": "red5-game",
+  "description": "Red5 multiplayer game server",
+  "version": "1.0.0",
+  "main": "./server",
+  "license": "ISC",
+  "dependencies": {
+    "red5": "*"
+  },
+  "devDependencies": {
+    "@types/node": "*"
+  }
+}
